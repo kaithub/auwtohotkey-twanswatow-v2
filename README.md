@@ -1,4 +1,4 @@
-# auwtohotkey-twanswatow
+# auwtohotkey-twanswatow-v2
 henwo UwU have you evew wanted to speak wike a degenewate without the effowt? wew now you can (\*≧▽≦)
 ## version 1.4.2
 
