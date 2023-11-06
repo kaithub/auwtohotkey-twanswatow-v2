@@ -94,13 +94,6 @@ sendData := ends[num]
 SendInput %sendData%
 return
 
-:?*:>:3::
-ends := ["(・`ω´・)", "ÒwÓ", "(・`ω´・)", "(｡>ω<｡)"]
-Random, num, 1, ends.Length()
-sendData := ends[num]
-SendInput %sendData%
-return
-
 :?*::(::
 ends := ["TwT", "uwu"]
 Random, num, 1, ends.Length()
