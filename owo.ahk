@@ -158,6 +158,8 @@ return
 
 :*:bitch::jewk
 
+:*:i wuv you::i wuv fficc ffighs
+
 :c*:wmao::
 outString := ""
 refString := "asdfjklgh"
